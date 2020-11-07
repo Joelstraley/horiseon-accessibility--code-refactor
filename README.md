@@ -8,7 +8,7 @@ HTML has been updated to contain semantic HTML to meet accesibility standards an
 
 Repository contains the following: 
 
-* -index.html (site is live at: )
+* -index.html (site is live at: https://joelstraley.github.io/horiseon-accessibility--code-refactor/)
 * -README.md
 * assets (folder)
   * css (folder)
