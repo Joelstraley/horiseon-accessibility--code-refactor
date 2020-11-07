@@ -24,9 +24,9 @@ Repository contains the following:
 
 ## Screenshot
 
-![alt text] (https://github.com/Joelstraley/horiseon-accessibility--code-refactor/blob/main/assets/Screenshot%20(51).png)
-![alt text] (https://github.com/Joelstraley/horiseon-accessibility--code-refactor/blob/main/assets/Screenshot%20(53).png)
-![alt text] (https://github.com/Joelstraley/horiseon-accessibility--code-refactor/blob/main/assets/Screenshot%20(52).png)
+![alt text](https://github.com/Joelstraley/horiseon-accessibility--code-refactor/blob/main/assets/Screenshot%20(51).png)
+![alt text](https://github.com/Joelstraley/horiseon-accessibility--code-refactor/blob/main/assets/Screenshot%20(53).png)
+![alt text](https://github.com/Joelstraley/horiseon-accessibility--code-refactor/blob/main/assets/Screenshot%20(52).png)
 
 
 ## Contributor: 
